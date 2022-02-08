@@ -41,6 +41,7 @@
     },
     "automationAccountName": {
       "type": "string",
+      "defaultValue":"myAA41",
       "metadata": {
         "description": "Automation account name"
       }
